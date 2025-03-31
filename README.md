@@ -1,2 +1,2 @@
-# projeto-base
-Contem uma arquitetura básica e depencias para diversos projetos
+# Projeto base
+registar valores de orçamentos e pagamentos
